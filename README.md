@@ -1,4 +1,3 @@
-![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 <h1 align="center">Hi 👋, I'm Yahia Mounib Amamra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align ="right" alt ="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
