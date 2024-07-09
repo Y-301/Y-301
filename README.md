@@ -7,7 +7,7 @@
   <img height=150 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Y-301&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
-<img align="left" height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=Y-301&theme=radical"/>
+<img align="left" height=152 src="https://github-readme-streak-stats.herokuapp.com/?user=Y-301&theme=radical"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Y-301&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 <br><br><br><br><br><br><br><br>
