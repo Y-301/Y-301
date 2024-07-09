@@ -10,7 +10,7 @@
 <img align="left" height=182 src="https://github-readme-streak-stats.herokuapp.com/?user=Y-301&theme=radical"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Y-301&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
