@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yahia Mounib Amamra</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 <a href="#">
-  <img height=170 align="center" src="https://my-stats-43gk.vercel.app/api?username=Y-301&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=190 align="center" src="https://my-stats-43gk.vercel.app/api?username=Y-301&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 <a href="#">
-  <img height=170 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Y-301&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img height=190 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Y-301&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
-<img align="left" height=172 src="https://github-readme-streak-stats.herokuapp.com/?user=Y-301&theme=radical"/>
+<img align="left" height=192 src="https://github-readme-streak-stats.herokuapp.com/?user=Y-301&theme=radical"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Y-301&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 <br><br><br><br><br><br><br>
