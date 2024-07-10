@@ -11,8 +11,8 @@
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Y-301&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 <br><br><br><br><br><br><br><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
@@ -52,4 +52,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
+</p>
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_Y-301/count.svg" />
 </p>
